@@ -13,14 +13,14 @@ outputs:
 params:
   address: Rome,Italy
   author: Anastasiia Ivanova
-  bio: I am Anastasiia Ivanova and this is my first site :)
+  bio: Personal blog about marketing and not only
   contact_form_action: "ivanova.anastasiia.96@gmail.com"
   cookies:
     enable: yes
     expire_days: 2
   copyright: Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)
-  description: I am Anastasiia Ivanova and this is my first site :)
-  email: ivanova.anastasiia.96@gmail.com
+  description: Personal blog about marketing and not only
+  email: "ivanova.anastasiia.96@gmail.com"
   home: Home
   instafeed:
     access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn

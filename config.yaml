@@ -61,7 +61,7 @@ menu:
       url: about
       weight: 2
     - name: Contact
-      url: contact1
+      url: contact
       weight: 3
     - name: IG
       url: "https://www.instagram.com/theanabravo/"

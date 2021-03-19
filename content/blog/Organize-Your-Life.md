@@ -7,7 +7,7 @@ image: images/featured-post/post-1.jpg
 tags:
 - Photos
 - Finance
-title: Organize Your Life With 10 Simple rule
+title: Organize Your Life With 10 Simple 
 type: featured
 ---
 

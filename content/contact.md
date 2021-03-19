@@ -1,7 +1,11 @@
 ---
-description: This is meta description
-image: images/contact.jpg
+description: Contact me !
+image: contact_files/Contact me!.png
 layout: contact
 title: Contact
 ---
-Strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream and, as I lie close to the earth, a thousand unknown plants are noticed by me.<br><br>When I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains.
+Are you are big Marketing consulting agency who wants to hire me?
+Or you are Donatella Versace who wants to propose to me position in Fashion industry?
+Or maybe you want to leave any feedback ?
+
+Well, all of these are equally exited for me! Fill in your name and email adress (so i could respond you) and send a message! ❤

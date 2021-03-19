@@ -1,4 +1,4 @@
-baseurl: "https://thepetitemarketing.netlify.app/"
+baseurl: "https://thepetitemarketing.netlify.app/ "
 languageCode: en-us
 title: thepetitemarketing
 theme: parsa-hugo
@@ -11,25 +11,22 @@ outputs:
     - RSS
     - JSON
 params:
-  address: 6 rip carl Avenue CA 90733
-  author: John Doe
-  author_image: images/banner-img.png
-  bio: I’m a Freelance Interactive Art Director based in France. Focusing across branding
-    and identity, digital and print.
-  contact_form_action: '#'
+  address: Rome,Italy
+  author: Anastasiia Ivanova
+  bio: I am Anastasiia Ivanova and this is my first site :)
+  contact_form_action: "ivanova.anastasiia.96@gmail.com"
   cookies:
     enable: yes
     expire_days: 2
   copyright: Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)
-  description: This is meta description
-  email: exmaple@ymail.com
+  description: I am Anastasiia Ivanova and this is my first site :)
+  email: ivanova.anastasiia.96@gmail.com
   home: Home
   instafeed:
     access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
     enable: yes
   layout: '1'
-  logo: images/logo.png
-  mobile: +90 000 333 22
+  logo: config_files/my_logo_2.png
   plugins:
     css:
       - link: plugins/bootstrap/bootstrap.min.css
@@ -50,29 +47,23 @@ params:
   preloader: yes
   search: yes
   social:
-    - icon: ti-facebook
-      url: '#'
-    - icon: ti-twitter-alt
-      url: '#'
+    - icon: ti-instagram
+      url: "https://www.instagram.com/theanabravo/"
     - icon: ti-linkedin
-      url: '#'
-    - icon: ti-github
-      url: '#'
+      url: "https://www.linkedin.com/in/anastasiia-ivanova-19011996/"
+
 menu:
   main:
-    - hasChildren: yes
-      name: Homepage
-      url: ''
-      weight: 1
-    - name: Homepage 1
-      parent: Homepage
+    - name: Homepage
       url: homepage/home-1
-    - name: Homepage 2
-      parent: Homepage
-      url: homepage/home-2
+      weight: 1
     - name: About
       url: about
       weight: 2
     - name: Contact
       url: contact
       weight: 3
+    - name: IG
+      url: "https://www.instagram.com/theanabravo/"
+      weight: 4
+

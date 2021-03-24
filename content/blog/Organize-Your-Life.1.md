@@ -11,6 +11,7 @@ tags:
 title: 11 students selected for GUCCI's new program
 type: featured
 ---
+
 Soon or later in our lives we start looking for a job or start thinking what we want to do. Some of us choose mathematics, some languages, others - fashion.
 
 Young designers learning how to draw sketch, chose fabric and sue,sue,sue. All this for a dream - to be invited to a fashion world one day. 

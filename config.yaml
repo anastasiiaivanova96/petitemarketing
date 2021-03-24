@@ -26,7 +26,7 @@ params:
     access_token: IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn
     enable: yes
   layout: '1'
-  logo: config_files/my_logo_2.png
+  logo: config_files/A _logo(2).png
   plugins:
     css:
       - link: plugins/bootstrap/bootstrap.min.css

@@ -1,56 +1,34 @@
 ---
 categories:
-- Philosophy
-date: "2019-05-14T14:46:10+06:00"
-description: This is meta description
-image: images/featured-post/post-2.jpg
+- Fashion news
+date: "2021-03-24T14:46:10+06:00"
+description: 11 students in GUCCi
+image: blog/Organize-Your-Life.1_files/post2.jpg
 tags:
-- Philosophy
-- Photos
-title: Organize Your Life With 10 Simple rule
+- News
+- Fashion
+- Work
+title: 11 students selected for GUCCI's new program
 type: featured
 ---
+Soon or later in our lives we start looking for a job or start thinking what we want to do. Some of us choose mathematics, some languages, others - fashion.
 
+Young designers learning how to draw sketch, chose fabric and sue,sue,sue. All this for a dream - to be invited to a fashion world one day. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+And imagine your dream coming true when you are still a student. Exactly what happened with 11 young designers, who participated and won in Gucci’s Design Fellowship Program.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+>GUCCI was always a wavetaker firm, following tew trends and establishing its own. And also today, by organizing this program is about to change the landscape of working in fashion, enhancing the diversity in their offices!
 
+Inclusivity, diversity, education and cultural enrichment are the idea of Gucci’s Design Fellowship Program, which was launched in 2019. Today, 11 design students from all over the world, will begin a 12-month program with Gucci at its design offices in Rome, the home base of Creative Director Alessandro Michele.
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+Program aims to provide opportunities for underrepresented groups, by mentoring novice designers on their quest to accrue hands-on professional experience, garner exposure to the arena of luxury fashion design and secure a professional career.
 
+Lucky winners are: Afua Anima from Radford University College, Ghana; Honggeun from South Korea’s ESMOD; Jasleen Kaur from Mcensal School of Fashion Design, Kenya; Jesus Horacio, from Mexico’s Universidad Jannette Klein; Lorena, from Dubai’s ESMOD; Melanie, of New York’s Fashion Institute of Technology; Micheal, of Lagos’ UNILAG; Robyn, Design Academy of Fashion, South Africa; Steve French of Radford University College, Ghana; Ting-Chia from Japan’s Bunka Gakuen and Xiaoxue of China Academy of Art. 
 
-![](../images/post-img.jpg)
+These 11 designers were selected by Gucci’s team, after a group of 50 finalists was invited to Gucci’s offices in Florence and in Rome for a three-day trip. Each one of these 11 individuals has been selected for his/her own unique set of skills and field of study. Gucci hopes the fellowship will also prove a valuable cultural exchange for Gucci’s design team.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+>“I am so excited about the opportunity that the students will be given and even more so about the experience Gucci will have for this cultural exchange within design. I have always known what inclusivity could bring to each; having the proper opportunity is all we need”, affirmed Bethann Hardison, Gucci’s Executive Advisor on Global Equity and Culture.
 
+![](/blog/Organize-Your-Life.1_files/gucci.jfif)
 
+https://www.linkedin.com/feed/update/urn:li:activity:6778595580835856384/

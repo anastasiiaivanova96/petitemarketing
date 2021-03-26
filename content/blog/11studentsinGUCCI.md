@@ -2,7 +2,7 @@
 categories:
 - Fashion news
 date: "2021-03-24T14:46:10+06:00"
-description: 11 students in GUCCi
+description: 11 students in GUCCI
 image: blog/Organize-Your-Life.1_files/post2.jpg
 tags:
 - News
